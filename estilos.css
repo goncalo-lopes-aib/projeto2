@@ -1,0 +1,30 @@
+body {
+background-color: #1b1b2f;
+color: #f1f1f1;
+font-family: Arial, sans-serif;
+}
+
+h1, h2 {
+color: #e0b34a;
+font-family: Georgia, serif;
+}
+
+img {
+width: 300px;
+}
+
+.destaque {
+background-color: #e0b34a;
+color: #1b1b2f;
+margin: 20px;
+padding: 10px;
+}
+
+a {
+color: #8ecae6;
+}
+
+/*
+1 A regra CSS que achei mais difícil de aplicar foi a .destaque, porque tive de combinar várias propriedades, como background-color, color, margin e padding, para criar uma secção destacada e visualmente organizada. Consegui superar essa dificuldade através da experimentação e da alteração dos valores até obter o resultado pretendido.
+2 Conseguir por o image source a funcionar e esquecer me de fechar as tags no final
+3 O src (source) como o nome diz é a fonte,indica nos onde está o ficheiro que deve ser carregado e mostrado na página, como uma imagem. */
